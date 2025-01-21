@@ -20,4 +20,4 @@ Hola!, me gusta el fútbol y el basquet, además me gusta mucho el trap, musica 
 2. [Instagram](https://www.instagram.com/rod__cg13/?hl=es)
 
 #### Correo electrónico
-- [Gmail](sobekmc1312@gmail.com)
+- [Gmail](mailto:sobekmc1312@gmail.com)
