@@ -10,6 +10,10 @@ Hola!, me gusta el fútbol y el basquet, además me gusta mucho el trap, musica 
 | Class #7 | --- | Puedo mejorar en... |
 | Class #8 | --- | Puedo mejorar en... |
 
+| guión bajo(CONTENIDO)guión bajo | Es una forma de poner en cursiva |
+| --- | --- |
+| 2 asteriscos(CONTENIDO)2 asteriscos | Es una forma de poner texto en negrita |
+
 ## LinkedIn e Instagram
 
 1. [Linkedin]()
