@@ -22,9 +22,5 @@ Hola!, me gusta el fútbol y el basquet, además me gusta mucho el trap, musica 
 #### Correo electrónico
 - [Gmail](mailto:sobekmc1312@gmail.com)
 
-#### LAB 7
-
-[Notas_de_Lectura_Code-101](https://github.com/RodriCG013/reading-notes/tree/main/Notas%20de%20lectura%20-%20Code%20101)
-
-[Notas_de_Lectura_Code-201](https://github.com/RodriCG013/reading-notes/tree/main/Notas%20de%20lectura%20-%20Code%20201)
+#### KLKLKLKLKL QUIERO SUBIRLO A GITHUB
 
